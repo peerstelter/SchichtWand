@@ -39,7 +39,7 @@ Entwickelt für und im Einsatz am Stadttheater Gießen. Läuft täglich im Produ
 ![Status](https://img.shields.io/badge/Status-Produktiv-brightgreen?style=flat)
 ![License](https://img.shields.io/badge/Lizenz-Proprietär-red?style=flat)
 
-> Quellcode ist nicht öffentlich. Bei Interesse an einer Lizenz oder einem individuellen Deployment: [peer@peerstelter.de](mailto:peer@peerstelter.de)
+> Quellcode ist nicht öffentlich. Bei Interesse an einer Lizenz oder einem individuellen Deployment: [info@peerstelter.de](mailto:info@peerstelter.de)
 
 ---
 
