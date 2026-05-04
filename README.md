@@ -43,4 +43,4 @@ Entwickelt für und im Einsatz am Stadttheater Gießen. Läuft täglich im Produ
 
 ---
 
-**[peerstelter.de](https://peerstelter.de)** · [LinkedIn](https://www.linkedin.com/in/peer-stelter-88371827b)
+**[peerstelter.de](https://peerstelter.de)** · [LinkedIn](https://www.linkedin.com/in/peerstelter/)
